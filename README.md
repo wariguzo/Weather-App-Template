@@ -136,3 +136,4 @@ Builds the application for production. This command compiles your React applicat
 
 ### `npm run serve`
 Serves the production build of your application locally. This is useful for testing the production build on your local machine. Typically, this command uses a tool like `serve` to serve the static files. You also need to run `npm run build` before running this command.# The-Weather-App
+# weather-app-2
